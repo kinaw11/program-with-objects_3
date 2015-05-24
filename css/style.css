@@ -1,0 +1,58 @@
+body{
+  background-color: #eee;
+}
+#header{
+  text-align: center;
+}
+#container{
+  background-color: black;
+  color: white;
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#table {
+  background-color: #6cf;
+  color: black;
+  }
+
+#contentone{
+  background-color: orange;
+  padding: 10px;
+}
+#contenttwo{
+  background-color: orange;
+  padding: 10px;
+}
+#contentthree{
+  background-color: orange;
+  padding: 10px;
+}
+#contentfour{
+  background-color:orange;
+  padding: 10px;
+}
+p{
+  background-color: grey; color: black;
+}
+.one{
+ list-style: none;
+ display: inline;
+}
+.two{
+  list-style: none;
+ display: inline;
+}
+.three{
+  list-style: none;
+  display: inline;
+}
+.four{
+  list-style: none;
+  display: inline;
+}
+.five{
+  list-style: none;
+  display: inline;
+}
+
